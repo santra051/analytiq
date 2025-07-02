@@ -19,4 +19,4 @@ This project includes:
 - DAX (for calculated metrics and KPIs)
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](images/dashboard_preview.png)
+![Dashboard Screenshot](Financial Performance Dashboard/Dashboard.png)
