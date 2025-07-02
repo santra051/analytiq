@@ -29,8 +29,8 @@ This project includes:
 
 ### Dataset : 
     (This information is scraped from the Google Play Store. This app information would not be available without it.)
-    - [googleplaystore.csv](https://github.com/santra051/analytiq/blob/main/Analysis%20Google%20Playstore%20Apps/googleplaystore.csv)
-    - [googleplaystore_user_reviews.csv](https://github.com/santra051/analytiq/blob/main/Analysis%20Google%20Playstore%20Apps/googleplaystore_user_reviews.csv)
+    ### [googleplaystore.csv](https://github.com/santra051/analytiq/blob/main/Analysis%20Google%20Playstore%20Apps/googleplaystore.csv)
+    ### [googleplaystore_user_reviews.csv](https://github.com/santra051/analytiq/blob/main/Analysis%20Google%20Playstore%20Apps/googleplaystore_user_reviews.csv)
 
 ## Tools & Technologies
 -Google Colab
