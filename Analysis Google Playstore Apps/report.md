@@ -1,12 +1,12 @@
-#[Google Play Store Apps data analysis](https://github.com/santra051/analytiq/tree/main/Analysis%20Google%20Playstore%20Apps)
+# [Google Play Store Apps data analysis](https://github.com/santra051/analytiq/tree/main/Analysis%20Google%20Playstore%20Apps)
 
 ## Objective :
  -The goal of this project is to analyze the characteristics of apps on the Google Play Store, including their ratings, reviews, sizes, installation counts, and more. The analysis will help identify trends, outliers, and patterns in the app market.
 
-### Dataset : 
-    (This information is scraped from the Google Play Store. This app information would not be available without it.)
-    -[googleplaystore.csv](https://github.com/santra051/analytiq/blob/main/Analysis%20Google%20Playstore%20Apps/googleplaystore.csv)
-    -[googleplaystore_user_reviews.csv](https://github.com/santra051/analytiq/blob/main/Analysis%20Google%20Playstore%20Apps/googleplaystore_user_reviews.csv)
+## Dataset : 
+    This information is scraped from the Google Play Store. This app information would not be available without it.
+###[googleplaystore.csv](https://github.com/santra051/analytiq/blob/main/Analysis%20Google%20Playstore%20Apps/googleplaystore.csv)
+### [googleplaystore_user_reviews.csv](https://github.com/santra051/analytiq/blob/main/Analysis%20Google%20Playstore%20Apps/googleplaystore_user_reviews.csv)
 
 ## Tools & Technologies
 -Google Colab
