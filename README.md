@@ -39,7 +39,7 @@ This project includes:
 - Google Drive for data access and storage
 
 ### [Google_playstore.ipynb](https://github.com/santra051/analytiq/blob/main/Analysis%20Google%20Playstore%20Apps/Google_Playstore.ipynb)
-![chart Screenshot](https://github.com/santra051/analytiq/blob/main/Analysis%20Google%20Playstore%20Apps/no%20of%20Paid%20apps%20per%20category.png)
+![chart Screenshot](https://github.com/santra051/analytiq/blob/main/Analysis%20Google%20Playstore%20Apps/no%20of%20Paid%20apps%20per%20category.png,https://github.com/santra051/analytiq/blob/main/Analysis%20Google%20Playstore%20Apps/Screenshot%202025-07-03%20233102.png)
 
 # Insights:
 - From the data, We claim that Family and Games Category apps are mostly abailable on Google Play Store.
