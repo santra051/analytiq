@@ -28,7 +28,7 @@ This project includes:
  -The goal of this project is to analyze the characteristics of apps on the Google Play Store, including their ratings, reviews, sizes, installation counts, and more. The analysis will help identify trends, outliers, and patterns in the app market.
 
 ### Dataset : 
-    (This information is scraped from the Google Play Store. This app information would not be available without it.)
+    This information is scraped from the Google Play Store. This app information would not be available without it.
     googleplaystore.csv
     googleplaystore_user_reviews.csv
 
@@ -56,11 +56,7 @@ This project includes:
  -The goal of this project is to analyze Daily Transection, including their enpence and income. The analysis will help identify trends, outliers, and patterns of transection. The total expense based on category and Time.
 
 ### Dataset : 
-    (The "Daily Transactions" dataset contains information on dummy transactions made by
-an individual on a daily basis. The dataset includes data on the products that were
-purchased, the amount spent on each product, the date and time of each transaction,
-the payment mode of each transaction, and the source of each record
-(Expense/Income).)
+    The "Daily Transactions" dataset contains information on dummy transactions made by an individual on a daily basis. The dataset includes data on the products that were purchased, the amount spent on each product, the date and time of each transaction, the payment mode of each transaction, and the source of each record (Expense/Income).
     Daily Household Transactions.csv
     -Column Descriptors
 ● Date: The date and time when the transaction was made
@@ -85,12 +81,8 @@ or income
 ![chart Screenshot](https://github.com/santra051/analytiq/blob/main/Daily%20Transection%20Analysis/Screenshot%202025-07-03%20213400.png)
 
 # Insights:
-- From the data, We claim that Family and Games Category apps are mostly abailable on Google Play Store.
-- Most of the apps are rated beteen 3 to 5.
-- There *Five category* apps has more average rating **EVENTS, EDUCATION, PERSONALIZATION, ART_AND_DESIGN, BOOKS_AND_REFERENCE, SOCIAL**. So we can say that there kind of apps are mostly rated by the user.
-- Top **Five** geners in palaystore are *Tools, Entertainment, Education, Medical, Business*.
-- Highest Install category apps are - *ART_AND_DESIGN, AUTO_AND_VEHICELS, BEAUTY*.
-- **105** Apps has best rating.
--  Most of the user rated the apps **4**.
+- Daily Transection are mostly used for money Transfer,investment and transport.
+- Most of the transactions are made using cash and savings accounts.
+- The highest number of transactions take place during the night.
 
   
