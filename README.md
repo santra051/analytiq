@@ -39,7 +39,8 @@ This project includes:
 - Google Drive for data access and storage
 
 ### [Google_playstore.ipynb](https://github.com/santra051/analytiq/blob/main/Analysis%20Google%20Playstore%20Apps/Google_Playstore.ipynb)
-![chart Screenshot](https://github.com/santra051/analytiq/blob/main/Analysis%20Google%20Playstore%20Apps/no%20of%20Paid%20apps%20per%20category.png,https://github.com/santra051/analytiq/blob/main/Analysis%20Google%20Playstore%20Apps/Screenshot%202025-07-03%20233102.png)
+![chart Screenshot](https://github.com/santra051/analytiq/blob/main/Analysis%20Google%20Playstore%20Apps/Screenshot%202025-07-03%20233102.png)
+![chart Screenshot](https://github.com/santra051/analytiq/blob/main/Analysis%20Google%20Playstore%20Apps/no%20of%20Paid%20apps%20per%20category.png)
 
 # Insights:
 - From the data, We claim that Family and Games Category apps are mostly abailable on Google Play Store.
@@ -47,7 +48,6 @@ This project includes:
 - There *Five category* apps has more average rating **EVENTS, EDUCATION, PERSONALIZATION, ART_AND_DESIGN, BOOKS_AND_REFERENCE, SOCIAL**. So we can say that there kind of apps are mostly rated by the user.
 - Top **Five** geners in palaystore are *Tools, Entertainment, Education, Medical, Business*.
 - Highest Install category apps are - *ART_AND_DESIGN, AUTO_AND_VEHICELS, BEAUTY*.
-- **105** Apps has best rating.
 -  Most of the user rated the apps **4**.
 
 # [Project 3: Daily Transrction Data analysis](https://github.com/santra051/analytiq/tree/main/Daily%20Transection%20Analysis)
@@ -56,7 +56,7 @@ This project includes:
  -The goal of this project is to analyze Daily Transection, including their enpence and income. The analysis will help identify trends, outliers, and patterns of transection. The total expense based on category and Time.
 
 ### Dataset : 
-    The "Daily Transactions" dataset contains information on dummy transactions made by an individual on a daily basis. The dataset includes data on the products that were purchased, the amount spent on each product, the date and time of each transaction, the payment mode of each transaction, and the source of each record (Expense/Income).
+    The "Daily Transactions" dataset contains information on dummy transactions made by an individual on a daily basis. The dataset includes data on the products that were purchased, the amount spent on each product, the date and time of each transaction, the payment mode of each transaction, and the source of each record ((Expense/Income)).
     Daily Household Transactions.csv
     -Column Descriptors
 ● Date: The date and time when the transaction was made
