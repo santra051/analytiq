@@ -11,9 +11,9 @@ This information is scraped from the Google Play Store. This app information wou
 
 ---
 ## Tools & Technologies
--Google Colab
--Python libraries (Pandas, Matplotlib, Seaborn, numpy)
--Openpyxl for Excel file support
+- Google Colab
+- Python libraries (Pandas, Matplotlib, Seaborn, numpy)
+- Openpyxl for Excel file support
 - Google Drive for data access and storage
 
 ---
